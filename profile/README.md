@@ -1,6 +1,6 @@
 <center>
 
-<img src="./assets/logo.svg" height="160px">
+<img src="profile/assets/logo.svg" height="160px">
 
 <h1>Welcome to ArcOS</h1>
 </center>
