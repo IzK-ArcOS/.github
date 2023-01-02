@@ -1,9 +1,7 @@
-<center>
-
-<img src="profile/assets/logo.svg" height="160px">
-
+<div style="margin: 0 auto; width: fit-content;">
+<img src="profile/assets/logo.svg" height="160px" style="margin: 0 auto;">
 <h1>Welcome to ArcOS</h1>
-</center>
+</div>
 
 The Operating System Environment with almost too much work poored into it. We started our initial development cycle back on February 17th, 2021, and we have nearly 300 commits since then, with thousands of lines of code. We were working on [ArcOS-Environment](https://github.com/IzK-ArcOS/ArcOS-Environment) but we eventually realised that managing such a massive project without any kind of Javascript framework would be an extensive task taking up too many man hours to justify continuing. Since then we've attempted a staggering three rewrites, ending up on ArcOS-Svelte-New back in late July 2022, with it's backend being started late December that same year.
 
