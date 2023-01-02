@@ -8,8 +8,8 @@ The Operating System Environment with almost too much work poored into it. We st
 ## Resources
 
 - The original ArcOS repository: [ArcOS-Environment](https://github.com/IzK-ArcOS/ArcOS-Environment)
-- ~~ArcOS Svelte Frontend: [ArcOS-Frontend](https://github.com/IzK-ArcOS/ArcOS-Frontend)~~ (still has to be moved)
-- ~~ArcOS API Backend: [ArcOS-API-v1](https://github.com/IzK-ArcOS/ArcOS-API-v1)~~ (still has to be moved)
+- ArcOS Svelte Frontend: [ArcOS-Frontend](https://github.com/IzK-ArcOS/ArcOS-Frontend)
+- ArcOS API Backend: [ArcOS-API-v1](https://github.com/IzK-ArcOS/ArcOS-API-v1)
 
 ## License
 
