@@ -1,4 +1,4 @@
-<div style="margin: 0 auto; width: fit-content;">
+<div align="center">
 <img src="profile/assets/logo.svg" height="160px" style="margin: 0 auto;">
 <h1>Welcome to ArcOS</h1>
 </div>
