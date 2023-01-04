@@ -13,7 +13,7 @@ The Operating System Environment with almost too much work poored into it. We st
 
 ## License
 
-The entire ArcOS project and all of it's child objects are licensed under the GPLv3 License.
+The entire ArcOS project and all of its child objects are licensed under the GPLv3 License.
 
 You can find this license [here](../LICENSE).
 
