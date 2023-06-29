@@ -23,6 +23,7 @@ The following people are registered members of the ArcOS Project:
 
 - Kees van Voorthuizen ([@keesvv](https://github.com/keesvv) [Website](https://keesvv.nl))
 - Matteo Scaringi ([@matteoscaringi](https://github.com/matteoscaringi) [Website](http://matteoscaringi.be/))
+- Eversiege ([@eversiege](https://github.com/eversiege) [Website](https://eversiege.me/))
 - ... more to come ...
 
 ## Disclaimers
