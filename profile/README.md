@@ -9,6 +9,7 @@ The Operating System Environment with almost too much work poured into it. We st
 - The original ArcOS repository: [ArcOS-Environment](https://github.com/IzK-ArcOS/ArcOS-Environment)
 - ArcOS Svelte Frontend: [ArcOS-Frontend](https://github.com/IzK-ArcOS/ArcOS-Frontend)
 - ArcOS API Backend: [ArcOS-API-v1](https://github.com/IzK-ArcOS/ArcOS-API-v1)
+- See upcoming changes here: [ArcOS Board](https://github.com/orgs/IzK-ArcOS/projects/1)
 
 ## License
 
