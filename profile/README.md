@@ -22,7 +22,7 @@ The following people are registered members of the ArcOS Project:
 - Eversiege ([@eversiege](https://github.com/eversiege) | [Website](https://eversiege.me/))
 - Blocky ([@BlockyHeadman](https://github.com/Blockyheadman))
 - Spaceginner ([@Spaceginner](https://github.com/Spaceginner))
-- LoganGamesDaily! ([@An-Unnamed-Developer](https://github.com/An-Unnamed-Developer) | [Website](https://abacusnet.ml/))
+- LoganGamesDaily! ([@An-Unnamed-Developer](https://github.com/An-Unnamed-Developer) | [Website](https://abacusnet.ml/about-me))
 
 ## Disclaimers
 
