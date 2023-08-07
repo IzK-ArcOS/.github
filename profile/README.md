@@ -23,6 +23,7 @@ The following people are registered members of the ArcOS Project:
 - Blocky ([@BlockyHeadman](https://github.com/Blockyheadman))
 - Spaceginner ([@Spaceginner](https://github.com/Spaceginner))
 - LoganGamesDaily! ([@An-Unnamed-Developer](https://github.com/An-Unnamed-Developer) | [Website](https://abacusnet.ml/about-me))
+- Saw Ramsson ([@Sawrams](https://github.com/sawrams) | [Website](https://sawrams.ru/))
 
 ## Disclaimers
 
