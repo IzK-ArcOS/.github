@@ -1,6 +1,9 @@
 <h1>Welcome to ArcOS!</h1>
 
-> 💬 Check out our [discord server](https://discord.gg/ARjRM6uNqf)!
+> 💬 Check out our Discord:
+> <br/><br/>
+> [![ArcOS Discord Server](https://invidget.switchblade.xyz/ARjRM6uNqf)](https://discord.gg/ARjRM6uNqf)
+
 
 The Operating System Environment with almost too much work poured into it. We started our initial development cycle on February 17th, 2021, and we have pushed over 800 commits since then, with thousands of lines of code. We were working on [ArcOS-Environment](https://github.com/IzK-ArcOS/ArcOS-Environment) but we eventually realised that managing such a massive project without any kind of Javascript framework would be an extensive task taking up too many man-hours to justify continuing. Since then we've attempted a staggering three rewrites, ending up on ArcOS-Svelte-New in late July 2022, with its backend starting in late December that same year, later renamed to [ArcOS Frontend](https://github.com/IzK-ArcOS/ArcOS-Frontend), which is worked on to this day.
 
