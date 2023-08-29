@@ -14,6 +14,7 @@ The Operating System Environment with almost too much work poured into it. We st
 - ArcOS Svelte Frontend: [ArcOS-Frontend](https://github.com/IzK-ArcOS/ArcOS-Frontend)
 - ArcOS API Backend: [ArcOS-API-Rewritten](https://github.com/IzK-ArcOS/ArcOS-API-Rewritten)
 - The original ArcOS repository (now archived): [ArcOS-Environment](https://github.com/IzK-ArcOS/ArcOS-Environment)
+- ArcOS Security Policy: [SECURITY.md](https://github.com/IzK-ArcOS/ArcOS-Frontend/blob/master/SECURITY.md)
 
 ## Special Thanks
 
