@@ -7,6 +7,9 @@
 
 The Operating System Environment with almost too much work poured into it. We started our initial development cycle on February 17th, 2021, and we have pushed over 800 commits since then, with thousands of lines of code. We were working on [ArcOS-Environment](https://github.com/IzK-ArcOS/ArcOS-Environment) but we eventually realised that managing such a massive project without any kind of Javascript framework would be an extensive task taking up too many man-hours to justify continuing. Since then we've attempted a staggering three rewrites, ending up on ArcOS-Svelte-New in late July 2022, with its backend starting in late December that same year, later renamed to [ArcOS Frontend](https://github.com/IzK-ArcOS/ArcOS-Frontend), which is worked on to this day.
 
+> [!IMPORTANT]
+> **ArcOS v6 is coming!** Read the announcement on our Discord: [_2023 is coming to an end!_ in #announcements](https://discord.com/channels/1082383732637450320/1086374480718348298/1191102808523538513)
+
 ## Resources
 
 - See upcoming changes here: [ArcOS Board](https://github.com/orgs/IzK-ArcOS/projects/1)
