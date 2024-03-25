@@ -1,48 +1,57 @@
-<h1>Welcome to ArcOS!</h1>
+<div align="center">
+  
+<p align="center">
+    <a href="https://izk-arcos.nl/" target="_blank" rel="noopener">
+        <img src="https://github.com/IzK-ArcOS/ArcOS-Frontend/assets/76709090/e1965e53-e96d-41f7-bab5-0061ecd26922" width="768px"/>
+    </a>
+</p>
+  
+# 👋 Welcome to ArcOS!
 
-> 💬 Check out our Discord:
-> <br/><br/>
-> [![ArcOS Discord Server](https://invidget.switchblade.xyz/S3fTadu88C)](https://discord.gg/S3fTadu88C)
+[![MadeWithSvelte.com](https://madewithsvelte.com/storage/repo-shields/4407-shield.svg)](https://madewithsvelte.com/p/arcos/shield-link)
+[![Chat with us!](https://img.shields.io/discord/1082383732637450320?label=Community&logo=discord)](https://discord.gg/S3fTadu88C)
+[![Contributors](https://img.shields.io/github/contributors/IzK-ArcOS/ArcOS-Frontend)](https://github.com/IzK-ArcOS/ArcOS-Frontend/graphs/contributors)
+[![Releases](https://raster.shields.io/github/v/release/IzK-ArcOS/ArcOS-Frontend.svg)](https://github.com/IzK-ArcOS/ArcOS-Frontend/releases)
+[![Pulse](https://img.shields.io/github/commit-activity/m/IzK-ArcOS/ArcOS-Frontend)](https://github.com/badges/IzK-ArcOS/ArcOS-Frontend)
+![Uptime](https://kuma.arcapi.nl/api/badge/7/status?label=Community+API)
+  
+</div>
 
+ArcOS is the advanced Svelte-based Operating System Environment in your browser. With ArcOS we aim to create the best possible experience we can within the confines of your browser. ArcOS consists of:
+- 📊 Advanced process and service management,
+- ☁ Readymade cloud storage to access your account from anywhere using ArcOS' [ArcAPI](https://github.com/IzK-ArcOS/ArcOS-API-Rewritten) (WIP),
+- 🔐 A secure user system consisting of hashed and salted passwords,
+- 🗄 Filesystem integration to store, create and upload files,
+- 📧 A built-in messaging system to talk to other ArcOS users on the same server,
+- ✨ Endless customization options to really adjust ArcOS to your personal taste,
+- 🐣 Beginner-friendly User Interface without the need of manuals,
+- 🧾 Inclusive Help & Support center to read up on things you don't immediately understand,
+- ⚠ Powerful error reporting and crash logs so that we can fix anything that's wrong as fast as possible
 
-The Operating System Environment with almost too much work poured into it. We started our initial development cycle on February 17th, 2021, and we have pushed over 800 commits since then, with thousands of lines of code. We were working on [ArcOS-Environment](https://github.com/IzK-ArcOS/ArcOS-Environment) but we eventually realised that managing such a massive project without any kind of Javascript framework would be an extensive task taking up too many man-hours to justify continuing. Since then we've attempted a staggering three rewrites, ending up on ArcOS-Svelte-New in late July 2022, with its backend starting in late December that same year, later renamed to [ArcOS Frontend](https://github.com/IzK-ArcOS/ArcOS-Frontend), which is worked on to this day.
+## 🛠 Getting started
+The easiest way to use ArcOS is to open it on [the web frontend](https://web.izk-arcos.nl/), which is always updated to match the current version of ArcOS. If you prefer a download instead, you can find the latest updates on [the releases page](https://github.com/IzK-ArcOS/ArcOS-Frontend/releases). This Desktop App is powered by Electron, and it might perform better than the browser version, depending on the browser and device.
 
-> [!IMPORTANT]
-> **ArcOS v6 is coming!** Read the announcement on our Discord: [_2023 is coming to an end!_ in #announcements](https://discord.com/channels/1082383732637450320/1086374480718348298/1191102808523538513)
+> It is not currently possible to clone the Source Code of ArcOS since ArcOS v6 isn't public as of March 25th, 2024.
 
-## Resources
+## Links
 
-- See upcoming changes here: [ArcOS Board](https://github.com/orgs/IzK-ArcOS/projects/1)
+These links bring you to the common places in and around ArcOS.
 
-- ArcOS Svelte Frontend: [ArcOS-Frontend](https://github.com/IzK-ArcOS/ArcOS-Frontend)
-- ArcOS API Backend: [ArcOS-API-Rewritten](https://github.com/IzK-ArcOS/ArcOS-API-Rewritten)
-- The original ArcOS repository (now archived): [ArcOS-Environment](https://github.com/IzK-ArcOS/ArcOS-Environment)
-- ArcOS Security Policy: [SECURITY.md](https://github.com/IzK-ArcOS/ArcOS-Frontend/blob/master/SECURITY.md)
+- The ArcOS Website lives [here](https://izk-arcos.nl).
+- Our GitHub is [here](https://github.com/IzK-ArcOS) (and amazing).
+- The very code that powers ArcOS is [here](https://github.com/IzK-ArcOS/v6) 🔒.
+- ArcOS runs on our own ArcAPI, which is on [this page](https://github.com/IzK-ArcOS/ArcOS-API-Rewritten).
 
-## Special Thanks
+## 💪 Contributing
+Found something you miss or is there a bug that we need to resolve? The best place for bugs is **Bug Reports** inside ArcOS, and [the issues page](https://github.com/IzK-ArcOS/ArcOS-Frontend/issues) for feature requests and stuff that needs further discussion.
 
-The following people are registered members of the ArcOS Project:
+Code contribution to ArcOS isn't currently possible because ArcOS v6 isn't a public repository.
 
-- Kees van Voorthuizen ([@keesvv](https://github.com/keesvv) | [Website](https://keesvv.nl))
-- Matteo Scaringi ([@matteoscaringi](https://github.com/matteoscaringi) | [Website](http://matteoscaringi.be/))
-
-- Eversiege ([@eversiege](https://github.com/eversiege) | [Website](https://eversiege.me/))
-- Blocky ([@BlockyHeadman](https://github.com/Blockyheadman))
-- Spaceginner ([@Spaceginner](https://github.com/Spaceginner))
-- LoganGamesDaily! ([@An-Unnamed-Developer](https://github.com/An-Unnamed-Developer) | [Website](http://lgd.uk.to/about-me))
-- Saw Ramsson ([@Sawrams](https://github.com/sawrams) | [Website](https://sawrams.ru/))
+> [!WARNING]
+> The code you see in [IzK-ArcOS/ArcOS-Frontend](https://github.com/IzK-ArcOS/ArcOS-Frontend) belongs to the now discontinued ArcOS v5. This code is not current anymore, pull requests regarding it will be ignored.
 
 ## Disclaimers
-
-Please note the following disclaimers before installing the operating system.
-
-> - ArcOS cannot be used as a primary operating system. An attempt to do so is discouraged.
-> - This is not an actual operating system. It is an environment that runs on top of your already existing OS, built using web technologies. It isn't possible to install already existing applications from third parties. This functionality may be implemented in the distant future.
-> - All assets in ArcOS, including those created by the team, belong to their respective owners. Reuse without credit is not permitted.
-> - The ArcOS team is not responsible for the loss of data when using ArcAPI. Do not store sensitive info on the File System. ArcAPI passwords are encrypted using ShA-512 and additionally salted with Snake-128.
-
-## License
-
-The entire ArcOS project and all of its child objects are licensed under the GPLv3 License unless stated otherwise.
-
-You can find this license [here](../LICENSE).
+- ArcOS cannot be used as a primary operating system. An attempt to do so is discouraged.
+- This is not an actual operating system. It is an environment that runs on top of your already existing OS, built using web technologies. It isn't possible to install already existing applications from third parties. This functionality may be implemented in the distant future.
+- All assets in ArcOS, including those created by the team, belong to their respective owners. Reuse without credit is not permitted.
+- The ArcOS team is not responsible for loss of data when using ArcAPI. Do not store sensitive info on the File System. ArcAPI passwords are hashed and salted.
