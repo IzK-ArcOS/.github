@@ -2,24 +2,17 @@
   
 <p align="center">
     <a href="https://izk-arcos.nl/" target="_blank" rel="noopener">
-        <img src="https://github.com/IzK-ArcOS/ArcOS-Frontend/assets/76709090/e1965e53-e96d-41f7-bab5-0061ecd26922" width="768px"/>
+        <img src="https://github.com/user-attachments/assets/f6710901-f4db-4e74-9a8b-8714b7254305" width="768px"/>
     </a>
 </p>
-  
+
 # 👋 Welcome to ArcOS!
 
-[![MadeWithSvelte.com](https://madewithsvelte.com/storage/repo-shields/4407-shield.svg)](https://madewithsvelte.com/p/arcos/shield-link)
-[![Chat with us!](https://img.shields.io/discord/1082383732637450320?label=Community&logo=discord)](https://discord.gg/S3fTadu88C)
-[![Contributors](https://img.shields.io/github/contributors/IzK-ArcOS/ArcOS-Frontend)](https://github.com/IzK-ArcOS/ArcOS-Frontend/graphs/contributors)
-[![Releases](https://raster.shields.io/github/v/release/IzK-ArcOS/ArcOS-Frontend.svg)](https://github.com/IzK-ArcOS/ArcOS-Frontend/releases)
-[![Pulse](https://img.shields.io/github/commit-activity/m/IzK-ArcOS/ArcOS-Frontend)](https://github.com/badges/IzK-ArcOS/ArcOS-Frontend)
-![Uptime](https://kuma.arcapi.nl/api/badge/7/status?label=Community+API)
-  
 </div>
 
 ArcOS is the advanced Svelte-based Operating System Environment in your browser. With ArcOS we aim to create the best possible experience we can within the confines of your browser. ArcOS consists of:
 - 📊 Advanced process and service management,
-- ☁ Readymade cloud storage to access your account from anywhere using ArcOS' [ArcAPI](https://github.com/IzK-ArcOS/ReArc-Backend) (WIP),
+- ☁ Readymade cloud storage to access your account from anywhere using ArcOS' [ArcAPI](https://github.com/IzK-ArcOS/ReArc-Backend) 🔒 (WIP),
 - 🔐 A secure user system consisting of hashed and salted passwords,
 - 🗄 Filesystem integration to store, create and upload files,
 - ~~📧 A built-in messaging system to talk to other ArcOS users on the same server,~~
@@ -35,10 +28,10 @@ It's currently not possible to run ArcOS for yourself. Sounds weird doesn't it? 
 
 These links bring you to the common places in and around ArcOS.
 
-- The ArcOS Website lives [here](https://izk-arcos.nl).
+- The ArcOS Website lives [here](https://izk-arcos.nl) 🔒.
 - Our GitHub is [here](https://github.com/IzK-ArcOS) (and amazing).
 - The very code that powers ArcOS is [here](https://github.com/IzK-ArcOS/v7) 🔒.
-- ArcOS runs on our own ArcAPI, which is on [this page](https://github.com/IzK-ArcOS/ReArc-Backend).
+- ArcOS runs on our own ArcAPI, which is on [this page](https://github.com/IzK-ArcOS/ReArc-Backend) 🔒.
 
 ## Disclaimers
 - ArcOS cannot be used as a primary operating system. An attempt to do so is discouraged.
